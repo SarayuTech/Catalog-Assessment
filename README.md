@@ -1,1 +1,1 @@
-# Catalog-Assessment
+This assignment involves working on a simplified version of Shamir's Secret Sharing Algorithm, where you are tasked to find the constant term  of a polynomial based on provided roots encoded in various bases.
